@@ -1,7 +1,8 @@
 # WeatherApp
 <br>
 <h1> This is an Weather Tracking App</h1>
-<p> This application is used to track the weather conditions of all the places world wide.
+<p> This application is used to track the weather conditions of all the places world wide.</p>
+<p>
     It tells about --
     <ul>
       <li>Temperature</li>
